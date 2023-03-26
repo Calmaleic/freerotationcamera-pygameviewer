@@ -1,2 +1,2 @@
-# simple-freerotationcamera-viewer
-A Basic viewer I had done when I was relearning concepts on 3d perspective space through computer graphics. Just wanted to reimplement the concepts in Pygame for convenience
+# freerotationcamera-viewer
+A viewer built with pygame which was meant to replicate the 3D perspective capabilities with 2D to 3D projection mapping. However, this method does not illustrate the use of modern GPU pipeline workflow with shader files, rather the mathematics.
